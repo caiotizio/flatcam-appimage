@@ -16,8 +16,8 @@ https://github.com/<tuo-utente>/flatcam-appimage/releases
 Download the `.AppImage` file and run:
 
 ```bash
-chmod +x FlatCAM.AppImage
-./FlatCAM.AppImage
+chmod +x FlatCAM_Evo-x86_64.AppImage
+./FlatCAM_Evo-x86_64.AppImage
 ```
 ## Disclaimer
 
