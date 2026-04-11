@@ -18,3 +18,12 @@ Download the `.AppImage` file and run:
 ```bash
 chmod +x FlatCAM.AppImage
 ./FlatCAM.AppImage
+
+##Disclaimer
+
+This is an unofficial build and is not affiliated with the original FlatCAM project.
+
+##License
+
+This project redistributes FlatCAM under its original license.
+See the LICENSE file for details.
