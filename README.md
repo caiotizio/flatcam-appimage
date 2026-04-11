@@ -11,7 +11,7 @@ FlatCAM is a PCB CAM (Computer-Aided Manufacturing) tool.
 ## Download
 
 Go to the Releases section:
-https://github.com/<tuo-utente>/flatcam-appimage/releases
+[https://github.com/<tuo-utente>/flatcam-appimage/releases](https://github.com/caiotizio/flatcam-appimage/releases)
 
 Download the `.AppImage` file and run:
 
