@@ -1,6 +1,6 @@
-# FlatCAM AppImage
+# FlatCAM EVO AppImage
 
-This repository provides an **unofficial AppImage build** of FlatCAM.
+This repository provides an **unofficial AppImage build** of FlatCAM EVO.
 
 ## About FlatCAM
 FlatCAM is a PCB CAM (Computer-Aided Manufacturing) tool.
