@@ -27,3 +27,9 @@ Download the `.AppImage` file and run:
 chmod +x FlatCAM.AppImage
 ./FlatCAM.AppImage
 
+## Status
+
+This project is not actively maintained.
+It was created for personal use and shared as-is.
+
+No updates, bug fixes, or support are guaranteed.
