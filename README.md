@@ -8,12 +8,11 @@ FlatCAM is a PCB CAM (Computer-Aided Manufacturing) tool.
 - Original project: https://github.com/<repo-originale>
 - Authors: FlatCAM developers
 
-##Disclaimer
+## Disclaimer
 
 This is an unofficial build and is not affiliated with the original FlatCAM project.
 
-##License
-
+## License
 This project redistributes FlatCAM under its original license.
 See the LICENSE file for details.
 
