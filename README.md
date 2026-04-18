@@ -19,6 +19,11 @@ Download the `.AppImage` file and run:
 chmod +x FlatCAM_Evo-x86_64.AppImage
 ./FlatCAM_Evo-x86_64.AppImage
 ```
+you may need to install blt and tk libraries
+```bash
+sudo apt update
+sudo apt install blt tk
+```
 ## Disclaimer
 
 This is an unofficial build and is not affiliated with the original FlatCAM project.
